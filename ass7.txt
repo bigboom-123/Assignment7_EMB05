@@ -1,2 +1,3 @@
 Assigment7 : GIT basic
 thao tac file tren issue1
+them func1 o branch issue1
