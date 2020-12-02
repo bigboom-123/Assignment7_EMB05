@@ -1,3 +1,7 @@
 Assigment7 : GIT basic
 thao tac file tren issue1
+<<<<<<< HEAD
 them func1 o branch issue1
+=======
+them func2 tai issue2
+>>>>>>> issu2
